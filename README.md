@@ -1,2 +1,2 @@
 # hello-world
-this repository is used to practice the stream of GitHub
+just used to test the funcion.
